@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1252f6dba592bb5c","x":-125,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":"Портфолио"},
+		{"id":"540dbd1d5103af3b","x":-609,"y":251,"width":250,"height":60,"type":"text","text":"Ethan's furniture"}
+	],
+	"edges":[
+		{"id":"13e27c851623750d","fromNode":"1252f6dba592bb5c","fromSide":"bottom","toNode":"540dbd1d5103af3b","toSide":"top"}
+	]
+}
