@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"1252f6dba592bb5c","type":"text","text":"Портфолио","x":-125,"y":-30,"width":250,"height":60,"color":"1"},
-		{"id":"540dbd1d5103af3b","type":"text","text":"Ethan's furniture","x":-609,"y":251,"width":250,"height":60},
-		{"id":"7b04ec5929691070","x":-820,"y":-366,"width":394,"height":246,"type":"text","text":"Старое портфолио:\n\nhttps://drive.google.com/drive/folders/1SCOIEtbMPE8eehCG9tmiDPNJBkrMgovA?usp=drive_link\n"}
+		{"id":"9ae5e5b209876762","x":-1720,"y":280,"width":480,"height":960,"type":"file","file":"Ethan's furniture.md"},
+		{"id":"7b04ec5929691070","type":"text","text":"Старое портфолио:\n\nhttps://drive.google.com/drive/folders/1SCOIEtbMPE8eehCG9tmiDPNJBkrMgovA?usp=drive_link\n","x":-754,"y":-320,"width":394,"height":246},
+		{"id":"1252f6dba592bb5c","type":"text","text":"# Портфолио","x":-320,"y":-74,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
-		{"id":"13e27c851623750d","fromNode":"1252f6dba592bb5c","fromSide":"bottom","toNode":"540dbd1d5103af3b","toSide":"top"}
+		{"id":"2586b9478a4b4d91","fromNode":"1252f6dba592bb5c","fromSide":"bottom","toNode":"9ae5e5b209876762","toSide":"top"}
 	]
 }
