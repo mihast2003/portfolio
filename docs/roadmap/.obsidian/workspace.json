@@ -15,13 +15,27 @@
               "state": {
                 "file": "Архитектура проекта.canvas",
                 "viewState": {
-                  "x": -1371.4029564643813,
-                  "y": 663.1351072745151,
-                  "zoom": -0.9999999999999998
+                  "x": -1912.4856611550908,
+                  "y": 678.5864832999285,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Архитектура проекта"
+            }
+          },
+          {
+            "id": "a3825627219e7367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethan's furniture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethan's furniture"
             }
           }
         ]
@@ -188,8 +202,9 @@
   },
   "active": "3c04ec3a8485b6c2",
   "lastOpenFiles": [
-    "листовка.psd",
+    "Ethan's furniture.md",
     "Архитектура проекта.canvas",
+    "листовка.psd",
     "листовка 2.psd",
     "листовка 1.psd",
     "gude-2026-03-04.log",
@@ -197,7 +212,6 @@
     "Pasted image 20260303165510.png",
     "логотип_кривые.psd",
     "визитка 1.psd",
-    "Ethn's furniture.md",
     "визитка.psd",
     "карточка_товара.psd",
     "Без названия",
