@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "74218e8a1f449b58",
+        "id": "a5516fd15924a1db",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e3772716a45ad9",
+            "id": "3c04ec3a8485b6c2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Архитектура проекта.canvas",
                 "viewState": {
-                  "x": -2232.37808625891,
-                  "y": 1036.5503875902991,
-                  "zoom": 1.1102230246251565e-16
+                  "x": -1371.4029564643813,
+                  "y": 663.1351072745151,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -186,7 +186,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e0e3772716a45ad9",
+  "active": "3c04ec3a8485b6c2",
   "lastOpenFiles": [
     "листовка.psd",
     "Архитектура проекта.canvas",
