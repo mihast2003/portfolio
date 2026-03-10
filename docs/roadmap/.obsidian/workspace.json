@@ -11,61 +11,20 @@
             "id": "a3825627219e7367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethan's furniture/Ethan's furniture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ethan's furniture"
-            }
-          },
-          {
-            "id": "70d9efff2cd59e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NeoClinic/NeoClinic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeoClinic"
-            }
-          },
-          {
-            "id": "91530987f1c91ed8",
-            "type": "leaf",
-            "state": {
-              "type": "imgk-plugin-view",
-              "state": {
-                "file": "Ethan's furniture/визитка 1.psd"
-              },
-              "icon": "lucide-file",
-              "title": "визитка 1"
-            }
-          },
-          {
-            "id": "a603669a84f64c49",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Архитектура проекта.canvas",
                 "viewState": {
-                  "x": -107.51613240232564,
-                  "y": 1109.088159523836,
-                  "zoom": -1.3333333333333333
+                  "x": -269.2498335444397,
+                  "y": 1611.6842543201803,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Архитектура проекта"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,24 +186,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a603669a84f64c49",
+  "active": "a3825627219e7367",
   "lastOpenFiles": [
-    "neoclinic_логотип_кривые.psd",
+    "neoclinic_листовка.psd",
+    "NeoClinic/NeoClinic.md",
+    "Архитектура проекта.canvas",
     "neoclinic_визитка.psd",
     "Ethan's furniture/Ethan's furniture.md",
+    "Ethan's furniture/визитка 1.psd",
+    "neoclinic_логотип_кривые.psd",
     "NeoClinic",
     "Ethan's furniture/Pasted image 20260303165510.png",
-    "NeoClinic/NeoClinic.md",
-    "Ethan's furniture/визитка 1.psd",
     "Ethan's furniture/визитка.psd",
-    "Архитектура проекта.canvas",
     "Ethan's furniture",
     "Ethan's furniture/листовка.psd",
     "листовка 2.psd",
     "листовка 1.psd",
     "gude-2026-03-04.log",
     "Ethan's furniture/Pasted image 20260303165513.png",
-    "Ethan's furniture/логотип_кривые.psd",
     "Без названия.canvas",
     "Добро пожаловать.md"
   ]
