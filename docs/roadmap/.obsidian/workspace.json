@@ -4,27 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "a5516fd15924a1db",
+        "id": "8a4e8643ad234f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3825627219e7367",
+            "id": "b047bc3aa13f4714",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Архитектура проекта.canvas",
                 "viewState": {
-                  "x": -269.2498335444397,
-                  "y": 1611.6842543201803,
-                  "zoom": 0.3333333333333334
+                  "x": -417.4198544698544,
+                  "y": 1348.884563409563,
+                  "zoom": 0.036044203111776585
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Архитектура проекта"
+            }
+          },
+          {
+            "id": "143da738991e2603",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Архитектура проекта.canvas",
+                "viewState": {
+                  "x": -566.2443921753372,
+                  "y": 1432.1736832168333,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Архитектура проекта"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,23 +204,23 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a3825627219e7367",
+  "active": "143da738991e2603",
   "lastOpenFiles": [
-    "neoclinic_листовка.psd",
-    "NeoClinic/NeoClinic.md",
+    "NeoClinic/neoclinic_баннер.md",
     "Архитектура проекта.canvas",
-    "neoclinic_визитка.psd",
+    "NeoClinic/neoclinic_баннер.psd",
+    "NeoClinic/neoclinic_листовка.psd",
+    "NeoClinic/NeoClinic.md",
+    "NeoClinic/neoclinic_визитка.psd",
     "Ethan's furniture/Ethan's furniture.md",
     "Ethan's furniture/визитка 1.psd",
-    "neoclinic_логотип_кривые.psd",
+    "NeoClinic/neoclinic_логотип_кривые.psd",
     "NeoClinic",
     "Ethan's furniture/Pasted image 20260303165510.png",
     "Ethan's furniture/визитка.psd",
     "Ethan's furniture",
     "Ethan's furniture/листовка.psd",
     "листовка 2.psd",
-    "листовка 1.psd",
-    "gude-2026-03-04.log",
     "Ethan's furniture/Pasted image 20260303165513.png",
     "Без названия.canvas",
     "Добро пожаловать.md"
