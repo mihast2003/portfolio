@@ -32,9 +32,9 @@
               "state": {
                 "file": "Архитектура проекта.canvas",
                 "viewState": {
-                  "x": -390.02111035729035,
-                  "y": 367.6898795386944,
-                  "zoom": -2.333333333333333
+                  "x": -1454.2567207670024,
+                  "y": 824.7761003906204,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -62,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
